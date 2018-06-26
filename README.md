@@ -1,1 +1,1 @@
-# Sitecore.DataExchange.Providers.Sc.CustomHotfix
+# Hotfixes for Sitecore Provider of Data Exchange Framework 2.0.1
